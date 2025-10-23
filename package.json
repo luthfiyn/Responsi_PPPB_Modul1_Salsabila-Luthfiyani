@@ -1,0 +1,29 @@
+{
+  "name": "shoe-wash-api",
+  "version": "1.0.0",
+  "description": "REST API sederhana untuk layanan daftar barang cuci sepatu menggunakan Node.js, Express.js, dan Supabase.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "supabase",
+    "rest-api",
+    "cuci-sepatu"
+  ],
+  "author": "Salsabila Luthfiyani",
+  "license": "ISC",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.76.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
