@@ -166,7 +166,7 @@ Langkah Instalasi dan Cara Menjalankan API
 
 1. Clone repository
 ```
-git clone https://github.com/username/shoe-wash-api.git
+git clone https://github.com/username/shoe-wash-api.git](https://github.com/luthfiyn/Responsi_PPPB_Modul1_Salsabila-Luthfiyani.git
 cd shoe-wash-api
 ```
 2. Install dependencies
@@ -196,6 +196,7 @@ GET /items?status=Selesai — filter berdasarkan status
 POST /items — tambah data sepatu
 PUT /items/:id — ubah status sepatu
 DELETE /items/:id — hapus data sepatu
+
 ```
 
 ## Link Deploy (Vercel)
